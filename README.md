@@ -17,45 +17,6 @@ My name is Jeremy and most of my time is spent coding, cycling, going to the sea
 
 - 🌱 I’m currently learning as much as i can about coding, but specifically more about Node, Typescript, Docker, React, Redux, Redux, Linux, AWS, Jest and Patterns / Architecture.
 
-<h2> Find me on
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-</h2>
-
-<p align="left">
- <a href="https://twitter.com/jeremystwita" target="blank">
-  <img
-     align="wrap"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-     alt="jeremystwita"
-     height="30"
-    width="40"
-   />
- </a>
-
- <a href="https://linkedin.com/in/jeremy-smith-2b3a9b15" target="_blank">
-   <img
-     align="wrap"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-     alt="LinkedIn"
-     height="30"
-     width="40"
-    />
- </a>
-
- <a href="https://www.leetcode.com/jrrs1982" target="_blank">
-   <img
-     align="wrap"
-     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-     alt="LeetCode"
-     height="30"
-     width="40"
-   />
- </a>
-
-<a href="https://www.jeremysmith.co.uk" target="_blank"> 
-  <img width="32px" align="wrap" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-</p>
-
 <p>
  <img
   align="center"
