@@ -1,22 +1,60 @@
-<h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">A software engineer</h3>
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
 
-<p align="left">
- <img
-  src="https://komarev.com/ghpvc/?username=jrrs1982&label=Profile%20views&color=0e75b6&style=flat"
-  alt="jrrs1982"
- />
+<h1> Hello Fellow < Software Engineers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
+
+</h3>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jrrs1982.jrrs1982)
+
 </p>
 
-<p align="left">
- <a href="https://twitter.com/jeremystwita" target="blank"
-  ><img
-   src="https://img.shields.io/twitter/follow/jeremystwita?logo=twitter&style=for-the-badge"
-   alt="jeremystwita"
- /></a>
-</p>
+<h2> About Me </h2>
 
-🌱 I’m currently learning more about **Node, Typescript, Docker, React, Redux, AWS, Patterns, Architecture and Jest**
+My name is Jeremy and most of my time is spent coding, cycling, going to the seaside and cooking.
+
+- 🌱 I’m currently learning as much as i can about coding, but specifically more about Node, Typescript, Docker, React, Redux, Redux, Linux, AWS, Jest and Patterns / Architecture.
+
+<h2> Find me on
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</h2>
+
+<p align="left">
+ <a href="https://twitter.com/jeremystwita" target="blank">
+  <img
+     align="wrap"
+     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+     alt="jeremystwita"
+     height="30"
+    width="40"
+   />
+ </a>
+
+ <a href="https://linkedin.com/in/jeremy-smith-2b3a9b15" target="_blank">
+   <img
+     align="wrap"
+     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+     alt="LinkedIn"
+     height="30"
+     width="40"
+    />
+ </a>
+
+ <a href="https://www.leetcode.com/jrrs1982" target="_blank">
+   <img
+     align="wrap"
+     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+     alt="LeetCode"
+     height="30"
+     width="40"
+   />
+ </a>
+
+<a href="https://www.jeremysmith.co.uk" target="_blank"> 
+  <img width="32px" align="wrap" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+</p>
 
 <p>
  <img
@@ -26,51 +64,7 @@
  />
 </p>
 
-<p align="left">
- <a href="https://twitter.com/jeremystwita" target="blank"
-  ><img
-   align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-   alt="jeremystwita"
-   height="30"
-   width="40"
- /></a>
-
- <a href="https://linkedin.com/in/jeremy-smith-2b3a9b15" target="blank"
-  ><img
-   align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-   alt="jeremy-smith-2b3a9b15"
-   height="30"
-   width="40"
- /></a>
-
- <a href="https://medium.com/jeremyrrsmith" target="blank"
-  ><img
-   align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-   alt="@jeremyrrsmith"
-   height="30"
-   width="40"
- /></a>
-
- <a href="https://www.leetcode.com/jrrs1982" target="blank"
-  ><img
-   align="center"
-   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-   alt="jrrs1982"
-   height="30"
-   width="40"
- /></a>
-</p>
-
-<p>
- &nbsp;<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=jrrs1982&show_icons=true&locale=en"
-  alt="jrrs1982"
- />
-</p>
+![Metrics](https://metrics.lecoq.io/jrrs1982?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <p align="left">
  <a href="https://aws.amazon.com" target="_blank">
@@ -211,7 +205,7 @@
  </a>
  <a href="https://www.typescriptlang.org/" target="_blank">
   <img
-   src="https://raw.githuusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+   src="https://raw.githuusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
    alt="typescript"
    width="40"
    height="40"
