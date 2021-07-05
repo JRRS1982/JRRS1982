@@ -1,21 +1,22 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Software Engineers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-</h3>
+ [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/jeremy-smith-2b3a9b15)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jrrs1982.jrrs1982)
+ [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Jeremystwita)
+
+ [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11561000/jeremy)
+
+ [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://jeremyrrsmith.medium.com/)
 
 </p>
+<br />
+ <br />
+<p>
+My name is Jeremy and most of my time is spent coding, cycling, cooking and going to the seaside / countryside 🌱 
 
-<h2> About Me </h2>
-
-My name is Jeremy and most of my time is spent coding, cycling, going to the seaside and cooking.
-
-- 🌱 I’m currently learning as much as i can about coding, but specifically more about Node, Typescript, Docker, React, Redux, Redux, Linux, AWS, Jest and Patterns / Architecture.
+I’m currently learning as much as I can about **Node, Typescript, Docker, React, Redux, AWS, Jest, CircleCI**. I am learning about design patterns, architecture and trying to agnostically deal with whatever else comes up along the way. I love working as a software engineer as I get to solve problems, automate monotonous tasks and make things for a living all while continuously learning my trade and working remotely (at times).
+</p>
 
 <p>
  <img
@@ -166,7 +167,7 @@ My name is Jeremy and most of my time is spent coding, cycling, going to the sea
  </a>
  <a href="https://www.typescriptlang.org/" target="_blank">
   <img
-   src="https://raw.githuusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
    alt="typescript"
    width="40"
    height="40"
