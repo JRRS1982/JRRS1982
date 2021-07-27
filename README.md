@@ -7,15 +7,21 @@
 
  [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11561000/jeremy)
 
- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://jeremyrrsmith.medium.com/)
+ [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%DBA800.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://jeremyrrsmith.medium.com/)
+ 
+ [<img align="left" alt="codewars" src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&logo=codewars&logoColor=white" />](https://www.codewars.com/users/JRRS1982)
+ 
+  [<img align="left" alt="exercism" src="https://img.shields.io/badge/exercism-%2312100E.svg?&style=for-the-badge&logo=exercism&logoColor=white" />](https://exercism.io/profiles/JRRS1982)
+ 
+  [<img align="left" alt="leetcode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/JRRS1982/)
 
 </p>
 <br />
  <br />
 <p>
-My name is Jeremy and most of my time is spent coding, cycling, cooking and going to the seaside / countryside 🌱 
+My name is Jeremy and most of my time is spent coding, cooking, cycling, running and going to the seaside for a swim / countryside for a wander 🌱 
 
-I’m currently learning as much as I can about **Node, Typescript, Docker, React, Redux, AWS, Jest, CircleCI**. I am learning about design patterns, architecture and trying to agnostically deal with whatever else comes up along the way. I love working as a software engineer as I get to solve problems, automate monotonous tasks and make things for a living all while continuously learning my trade and working remotely (at times).
+I am learning as much as I can about **Node, Typescript, Docker, React, Redux, AWS, Jest, CircleCI** and as many other things that come up day to day. I am learning new design patterns, more about architecture and trying to agnostically deal with coding problems. I have a bunch of years experience in other industries but changed careers as I love working in code as I get to solve problems, automate monotonous tasks for people and build things for a living all while continuously being paid to learn. Being able to work remotely, but still connect with nice people that enjoy what they do is also a big positive.
 </p>
 
 <p>
@@ -25,8 +31,6 @@ I’m currently learning as much as I can about **Node, Typescript, Docker, Reac
   alt="jrrs1982"
  />
 </p>
-
-![Metrics](https://metrics.lecoq.io/jrrs1982?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <p align="left">
  <a href="https://aws.amazon.com" target="_blank">
