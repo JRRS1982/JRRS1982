@@ -1,28 +1,27 @@
-<h1> Hello Fellow < Software Engineers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1> Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
- [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeremy-smith-2b3a9b15/)
-
- [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Jeremystwita)
-
- [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11561000/jeremy)
-
- [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%DBA800.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://jeremyrrsmith.medium.com/)
- 
- [<img align="left" alt="codewars" src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&logo=codewars&logoColor=white" />](https://www.codewars.com/users/JRRS1982)
- 
-  [<img align="left" alt="exercism" src="https://img.shields.io/badge/exercism-%2312100E.svg?&style=for-the-badge&logo=exercism&logoColor=white" />](https://exercism.io/profiles/JRRS1982)
- 
-  [<img align="left" alt="leetcode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/JRRS1982/)
-
- <br />
-</p>
+<p>
+  <a href="https://twitter.com/Jeremystwita" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/11561000/jeremy" target="_blank"><img atl="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/JRRS1982" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.codewars.com/users/JRRS1982" target="_blank"><img alt="CodeWars" src="https://img.shields.io/badge/codewars-%2312100E.svg?&style=for-the-badge&logo=codewars&logoColor=white" />
+  </a>
+  <a href="https://exercism.io/profiles/JRRS1982" target="_blank"><img alt="Exercism" src="https://img.shields.io/badge/exercism-%2312100E.svg?&style=for-the-badge&logo=exercism&logoColor=white" />
+  </a>
 <br />
  <br />
 <p>
-My name is Jeremy and most of my time is spent coding, cooking, cycling, running and going to the seaside for a swim / countryside for a wander 🌱 
+My name is Jeremy, I am a software engineer. Most of my time is spent learning / writing code, cooking, cycling, running and going to the seaside for a swim or countryside for a wander 🌱
 
-I am learning as much as I can about **Node, Typescript, Docker, React, Redux, AWS, Jest, CircleCI** and as many other things that come up day to day. I am learning new design patterns, more about architecture and trying to agnostically deal with coding problems. I have a bunch of years experience in other industries but changed careers as I love working in code as I get to solve problems, automate monotonous tasks for people and build things for a living all while continuously being paid to learn. Being able to work remotely, but still connect with nice people that enjoy what they do is also a big positive.
+I am currently working with and learning as much as I can about **Typescript, Node, React, Redux, Docker, AWS, Jest, Jenkins, GraphQL, CircleCI** and many other things. I am learning new design patterns, more about architecture and trying to deal with coding problems. Prior to working in software I worked in financial advice and property. 
+
+I chose to career change and write code for a living as I love the ability to solve problems, automate monotonous tasks and build things, all while continuously learning. Being able to work remotely and with people that enjoy what they do is also a large positive.
+
 </p>
 
 <p>
@@ -32,6 +31,8 @@ I am learning as much as I can about **Node, Typescript, Docker, React, Redux, A
   alt="jrrs1982"
  />
 </p>
+
+---
 
 <p align="left">
  <a href="https://aws.amazon.com" target="_blank">
