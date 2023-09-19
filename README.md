@@ -20,13 +20,13 @@
 My name is Jeremy, I am a software engineer. Most of my time is spent learning all things code 💻, cooking 🍞, cycling 🚲, running 🏃
 and going to the seaside 🌊 for a swim 🏊 or countryside 🎄 for a wander 🚶
 
-I am currently working with and learning as much as I can about **Typescript, Node, React, Redux, Docker, AWS, Jest, Jenkins, Storybook, GraphQL, CircleCI** and many other things. I am learning new design patterns, more about architecture and breaking down problems into manageable size pieces. 
-  
-Prior to working in software I had careers in financial advice and property. I chose to career change and write code for a living as I was tired of filling in paperwork and love automating monotonous tasks and building things. I love my new career as you get to see tangible progress daily and not having to commute is a huge timesaver.
+I am currently working with and learning as much as I can about **Typescript, Node, React, Redux, Docker, AWS, Jest, Jenkins, Storybook, GraphQL, CircleCI** and many other things. I am learning new design patterns, more about architecture and breaking down problems into manageable size pieces.
+
+Prior to working in software I had careers in financial advice and property, I chose to career change and write code for a living as I was tired of filling in paperwork. I love automating monotonous tasks, building things, and seeing tangible progress daily. Not having to commute daily is a huge timesaver and provides a better balance to life.
 
 I like sharing my learning and knowledge as it may help someone else with their learning journey, my second brain in Notion is HUGE and growing all the time, feel free to [check for yourself](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9).
 
-Repositories of mine that you may be interested in are [TechTests](https://github.com/JRRS1982/TechTests) or a project called [balanced-money-backend](https://github.com/JRRS1982/balanced-money-backend), maybe kata from [Leetcode](https://github.com/JRRS1982/LeetCode) or some completed [Tutorials](https://github.com/JRRS1982/TutorialProjects)
+Repositories of mine that you may be interested in are [TechTests](https://github.com/JRRS1982/TechTests) or a project called [balanced-money-backend](https://github.com/JRRS1982/balanced-money-backend), maybe some [Kata](https://github.com/JRRS1982/LeetCode) or some of the [Tutorials](https://github.com/JRRS1982/TutorialProjects) i have worked on.
 
 </p>
 
