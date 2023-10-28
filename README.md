@@ -26,7 +26,9 @@ Prior to working in software I had careers in financial advice and property, I c
 
 I like sharing my learning and knowledge as it may help someone else with their learning journey, my second brain in Notion is HUGE and growing all the time, feel free to [check for yourself](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9).
 
-Repositories of mine that you may be interested in are [TechTests](https://github.com/JRRS1982/TechTests) or a project called [balanced-money-backend](https://github.com/JRRS1982/balanced-money-backend), maybe some [Kata](https://github.com/JRRS1982/LeetCode) or some of the [Tutorials](https://github.com/JRRS1982/TutorialProjects) i have worked on.
+Repositories of mine that you may be interested in are [TechTests](https://github.com/JRRS1982/TechTests) or a project called [balanced-money-backend](https://github.com/JRRS1982/balanced-money-backend), maybe some [Kata](https://github.com/JRRS1982/LeetCode) or some of the [Tutorials](https://github.com/JRRS1982/TutorialProjects) i have worked on. 
+
+You can find my brag document highlighting some of my achievements at work [here](https://my-code-notes.notion.site/Brag-Document-7382f78e1f1d490c88244000d6aa647e?pvs=4).
 
 </p>
 
