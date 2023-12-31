@@ -1,8 +1,6 @@
 <h1> Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <p>
-  <a href="https://twitter.com/Jeremystwita" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/jeremy-smith-2b3a9b15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/11561000/jeremy" target="_blank"><img atl="StackOverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
@@ -17,19 +15,18 @@
 <br />
 <br />
 <p>
-My name is Jeremy, I am a software engineer. Most of my time is spent learning all things code 💻, cooking 🍞, cycling 🚲, running 🏃
-and going to the seaside 🌊 for a swim 🏊 or countryside 🎄 for a wander 🚶
+  My name is Jeremy, I am a software engineer. Most of my time is spent learning all things code 💻, cooking 🍞, cycling 🚲, running 🏃
+  and going to the seaside 🌊 for a swim 🏊 or countryside 🎄 for a wander 🚶
 
-I am currently working with and learning as much as I can about **Typescript, Node, React, Redux, Docker, AWS, Jest, Jenkins, Storybook, GraphQL, CircleCI** and many other things. I am learning new design patterns, more about architecture and breaking down problems into manageable size pieces.
+  I am currently working with and learning as much as I can about **Typescript, Node, React, Redux, Docker, AWS, Jest, Jenkins, Storybook, GraphQL, CircleCI** and many other things. I am learning new design patterns, more about architecture and breaking larger problems down into manageable size pieces.
 
-Prior to working in software I had careers in financial advice and property, I chose to career change and write code for a living as I was tired of filling in paperwork. I love automating monotonous tasks, building things, and seeing tangible progress daily. Not having to commute daily is a huge timesaver and provides a better balance to life.
+  Prior to working in software I had careers in financial advice and property, I chose to career change and write code for a living as I was tired of filling in monotonous paperwork. I love automating tasks, process improvement, building things, refactoring, writing tests, checking edge cases and making things better on a daily basis. Not having to commute is a huge timesaver and provides a better balance to life.
 
-I like sharing my learning and knowledge as it may help someone else with their learning journey, my second brain in Notion is HUGE and growing all the time, feel free to [check for yourself](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9).
+  I enjoy sharing my knowledge as it may help someone else with their learning journey, and holds me to account, my second brain is held in Notion, and is HUGE, please feel free to [check for yourself](https://my-code-notes.notion.site/863199a0f13346019ee9b5244e34a1e2?v=3bc4946ef695471e8fdcc4300b5abde9).
 
-Repositories of mine that you may be interested in are [TechTests](https://github.com/JRRS1982/TechTests) or a project called [balanced-money-backend](https://github.com/JRRS1982/balanced-money-backend), maybe some [Kata](https://github.com/JRRS1982/LeetCode) or some of the [Tutorials](https://github.com/JRRS1982/TutorialProjects) i have worked on. 
+  Repositories of mine that you may be interested in are [TechTests](https://github.com/JRRS1982/TechTests) or a project called [balanced-money-backend](https://github.com/JRRS1982/balanced-money-backend), maybe some [Kata](https://github.com/JRRS1982/LeetCode) or some of the [Tutorials](https://github.com/JRRS1982/TutorialProjects) i have worked on. 
 
-You can find my brag document highlighting some of my achievements at work [here](https://my-code-notes.notion.site/Brag-Document-7382f78e1f1d490c88244000d6aa647e?pvs=4).
-
+  You can find my brag document highlighting some of my achievements at work [here](https://my-code-notes.notion.site/Brag-Document-7382f78e1f1d490c88244000d6aa647e?pvs=4).
 </p>
 
 <p>
